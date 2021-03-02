@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&amp;text_color=daf7dc&amp;bg_color=151515)](https://github.com/yourusername/github-readme-stats)
+[Contact me - LinkedIn](https://www.linkedin.com/in/denisseanaya/)
 
 <!--
 **denisseai/denisseai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
