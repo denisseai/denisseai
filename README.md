@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Denisse
+## Hi, I'm Denisse <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 *****************************
 After some years as a cook, I decided to switch careers to software development. I recently graduated from Ada developers academy in lovely Seattle. At the beginning of the year, I completed my first software engineering internship. I'm currently looking for my first FT SDE position. In my spare time you will find me cooking, taking care of my dogs, and caring about the environment.
 ***************************
@@ -9,6 +9,7 @@ After some years as a cook, I decided to switch careers to software development.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisseai&layout=compact&theme=vue)
 ******************************
+
 ![LinkedIn Profile](https://www.linkedin.com/in/denisseanaya/)
 
 <!--
