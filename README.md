@@ -5,7 +5,7 @@ After some years as a cook, I decided to switch careers to software development.
 
 ***************************
 ### My favorite project and stats :woman_technologist:
-![Pawmble](https://github-readme-stats.vercel.app/api/pin/?username=denisseai&repo=WalkingBuddiesDogEdition&theme=vue)
+![Pawmble](https://github-readme-stats.vercel.app/api/pin/?username=denisseai&repo=Pawmble&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisseai&layout=compact&theme=vue)
 ![My stats](https://github-readme-stats.vercel.app/api?username=denisseai&show_icons=true&theme=vue)
 
