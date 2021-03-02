@@ -4,7 +4,9 @@
 After some years as a cook, I decided to switch careers to software development. I recently graduated from Ada developers academy in lovely Seattle. At the beginning of the year, I completed my first software engineering internship. I'm currently looking for my first FT SDE position. In my spare time you will find me cooking, taking care of my dogs, and caring about the environment. 🌱
 
 ***************************
-### So far my fav project is: [Pawmble :paw_prints: click & check it out](https://github.com/denisseai/WalkingBuddiesDogEdition)
+### My favorite project is:
+![Pawmble](https://github-readme-stats.vercel.app/api/pin/?username=denisseai&repo=WalkingBuddiesDogEdition)
+
 ### :woman_technologist: Github stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisseai&layout=compact&theme=vue)
